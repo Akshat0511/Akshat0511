@@ -62,7 +62,7 @@ Tools & Platforms
   <a href="https://codeforces.com/profile/akshat051105">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
-  <a href="https://www.codechef.com/users/busy_flies_39">
+  <a href="https://www.codechef.com/users/akshatpatel_05">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
 </p>
