@@ -72,45 +72,50 @@ Tools & Platforms
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 
-##   Featured Projects
+## `06`   Featured Projects
 
-### 🌐 [Atlasify-website](YOUR_LIVE_WEBSITE_URL)
+### 🌐 [Atlasify-website](https://frontend-atlasify-website.vercel.app/)
 
 A learning-focused website built to help learners explore educational resources.
 
-[**🔗 Visit Website ↗**](https://frontend-atlasify-website.vercel.app/first) · [View Source Code](https://github.com/Akshat0511/frontend-atlasify-website)
+[**🔗 Visit Website ↗**](https://frontend-atlasify-website.vercel.app/) · [View Source Code](https://github.com/Akshat0511/frontend-atlasify-website)
 
-### 📝 [campusfix](YOUR_LIVE_WEBSITE_URL)
+### 📝 [CampusFix](https://campusfix-eosin.vercel.app/)
 
 A complaint management system designed to manage and address campus-related complaints.
 
-[**🔗 Visit Website ↗**](YOUR_LIVE_WEBSITE_URL) · [View Source Code](https://github.com/Akshat0511/campusfix)
+[**🔗 Visit Website ↗**](https://campusfix-eosin.vercel.app/) · [View Source Code](https://github.com/Akshat0511/campusfix)
 
-### 🎬 [Netflix-clone](YOUR_LIVE_WEBSITE_URL)
+### 🎬 [Netflix Clone](https://netflix-clone-xi-five-46.vercel.app/)
 
 A Netflix-inspired streaming interface built with React.
 
-[**🔗 Visit Website ↗**](YOUR_LIVE_WEBSITE_URL) · [View Source Code](https://github.com/Akshat0511/Netflix-clone)
+[**🔗 Visit Website ↗**](https://netflix-clone-xi-five-46.vercel.app/) · [View Source Code](https://github.com/Akshat0511/Netflix-clone)
 
-### 🐶 [react-dog](YOUR_LIVE_WEBSITE_URL)
+### 🐶 [React Dog](https://react-dog-psi-eight.vercel.app/)
 
 A React-based project forked from the original repository.
 
-[**🔗 Visit Website ↗**](YOUR_LIVE_WEBSITE_URL) · [View Source Code](https://github.com/Akshat0511/react-dog)
+[**🔗 Visit Website ↗**](https://react-dog-psi-eight.vercel.app/) · [View Source Code](https://github.com/Akshat0511/react-dog)
 
-### 🚀 [SamadhanSetu](https://react-dog-psi-eight.vercel.app/)
+### 🚀 [SamadhanSetu](https://samadhan-setu-eosin.vercel.app/)
 
 A platform connecting communities and collaborators to turn societal challenges into practical solutions.
 
-[**🔗 Visit Website ↗**](https://react-dog-psi-eight.vercel.app/) · [View Source Code](https://github.com/Akshat0511/SamadhanSetu)
+[**🔗 Visit Website ↗**](https://samadhan-setu-eosin.vercel.app/) · [View Source Code](https://github.com/Akshat0511/SamadhanSetu)
 
-### 🐍 [Snake-Game](YOUR_LIVE_WEBSITE_URL)
+### 🐍 [Snake Game](https://snake-game-lemon-gamma.vercel.app/)
 
 A classic Snake game built using JavaScript.
 
-[**🔗 Play Game ↗**](YOUR_LIVE_WEBSITE_URL) · [View Source Code](https://github.com/Akshat0511/Snake-Game)
+[**🎮 Play Game ↗**](https://snake-game-lemon-gamma.vercel.app/) · [View Source Code](https://github.com/Akshat0511/Snake-Game)
 
 ---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/6%20Projects-Building%20%26%20Learning-00FF9C?style=for-the-badge&labelColor=101820" alt="6 Projects"/>
+</div>
+
 
 
 
