@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Akshat 👋</h1>
+<h1 align="center">Hey there, I'm <img src="https://capsule-render.vercel.app/api?type=venom&height=250&text=AKSHAT%20PATEL&fontSize=60&fontColor=00FF9C&stroke=00FF9C&strokeWidth=1&animation=fadeIn&fontAlignY=45&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=17&descAlignY=65&color=0:050505,50:101820,100:001F15" width="100%" alt="Akshat Patel Header"/></h1>
 
 <h3 align="center">💻 CSE Student | DSA Enthusiast | Aspiring Software Engineer</h3>
 
