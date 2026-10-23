@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About Me
+##   About Me
 
 * 🎓 Computer Science and Engineering student
 * 🌱 Currently learning Data Structures and Algorithms
@@ -20,16 +20,30 @@
 
 ---
 
-## 🧑‍💻 Tech Stack
+##  Tech Arsenal
 
-<p>
- <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,react,nextjs,nodejs,express,tailwind,vite,npm,mongodb,postgres,firebase,git,github,vscode,postman,vercel" alt="My Tech Stack" />
+<div align="center">
 
-</p>
+Programming Languages
 
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts&theme=dark" alt="Programming Languages"/>
+
+Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite&theme=dark" alt="Frontend Technologies"/>
+
+Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,firebase&theme=dark" alt="Backend and Databases"/>
+
+Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel&theme=dark" alt="Developer Tools"/>
+
+</div>
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Akshat0511&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -38,11 +52,11 @@
 
 ---
 
-## 💻 Coding Profiles
+##  Coding Profiles
 
 <p>
-  🟠 <a href="https://leetcode.com/">LeetCode</a> — Data Structures & Algorithms<br>
-  🔵 <a href="https://codeforces.com/">Codeforces</a> — Competitive Programming
+  🟠 <a href="[https://leetcode.com/"](https://leetcode.com/u/Akshat_0511/)>LeetCode</a> — Data Structures & Algorithms<br>
+  🔵 <a href="[https://codeforces.com/"](https://codeforces.com/profile/akshat051105)>Codeforces</a> — Competitive Programming
 </p>
 
 ---
