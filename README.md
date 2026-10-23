@@ -55,9 +55,16 @@ Tools & Platforms
 
 ##  Coding Profiles
 
-<p>
-  🟠 <a href="https://leetcode.com/u/Akshat_0511/">LeetCode</a> — Data Structures & Algorithms<br>
-  🔵 <a href="https://codeforces.com/profile/akshat051105">Codeforces</a> — Competitive Programming
+<p align="center">
+  <a href="https://leetcode.com/u/Akshat_0511/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+  <a href="https://codeforces.com/profile/akshat051105">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  </a>
+  <a href="[https://www.codechef.com/](https://www.codechef.com/users/busy_flies_39)">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+  </a>
 </p>
 
 
