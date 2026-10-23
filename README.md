@@ -80,17 +80,7 @@ A learning-focused website built to help learners explore educational resources.
 
 [**🔗 Visit Website ↗**](https://frontend-atlasify-website.vercel.app/) · [View Source Code](https://github.com/Akshat0511/frontend-atlasify-website)
 
-### 📝 [CampusFix](https://campusfix-eosin.vercel.app/)
 
-A complaint management system designed to manage and address campus-related complaints.
-
-[**🔗 Visit Website ↗**](https://campusfix-eosin.vercel.app/) · [View Source Code](https://github.com/Akshat0511/campusfix)
-
-### 🎬 [Netflix Clone](https://netflix-clone-xi-five-46.vercel.app/)
-
-A Netflix-inspired streaming interface built with React.
-
-[**🔗 Visit Website ↗**](https://netflix-clone-xi-five-46.vercel.app/) · [View Source Code](https://github.com/Akshat0511/Netflix-clone)
 
 ### 🐶 [React Dog](https://react-dog-psi-eight.vercel.app/)
 
@@ -110,6 +100,16 @@ A classic Snake game built using JavaScript.
 
 [**🎮 Play Game ↗**](https://snake-game-lemon-gamma.vercel.app/) · [View Source Code](https://github.com/Akshat0511/Snake-Game)
 
+### 📝 [CampusFix](https://campusfix-eosin.vercel.app/)
+
+A complaint management system designed to manage and address campus-related complaints.
+
+[**🔗 Visit Website ↗**](https://campusfix-eosin.vercel.app/) · [View Source Code](https://github.com/Akshat0511/campusfix)
+### 🎬 [Netflix Clone](https://netflix-clone-xi-five-46.vercel.app/)
+
+A Netflix-inspired streaming interface built with React.
+
+[**🔗 Visit Website ↗**](https://netflix-clone-xi-five-46.vercel.app/) · [View Source Code](https://github.com/Akshat0511/Netflix-clone)
 ---
 
 <div align="center">
@@ -120,14 +120,17 @@ A classic Snake game built using JavaScript.
 
 
 ---
-
 ## 🤝 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://github.com/Akshat0511">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://www.linkedin.com/in/akshat-patel-92a42337a/?isSelfProfile=true">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
+
 
 ---
 
