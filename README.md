@@ -78,7 +78,7 @@ Tools & Platforms
 
 A learning-focused website built to help learners explore educational resources.
 
-[**🔗 Visit Website ↗**](YOUR_LIVE_WEBSITE_URL) · [View Source Code](https://github.com/Akshat0511/Atlasify-website)
+[**🔗 Visit Website ↗**](https://frontend-atlasify-website.vercel.app/first) · [View Source Code](https://github.com/Akshat0511/frontend-atlasify-website)
 
 ### 📝 [campusfix](YOUR_LIVE_WEBSITE_URL)
 
