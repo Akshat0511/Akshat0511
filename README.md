@@ -1,4 +1,5 @@
 <h1 align="center">Hey there, I'm Akshat 👋</h1>
+<p> <a href="https://github.com/Akshat0511"> <img src="https://img.shields.io/badge/GitHub-Akshat0511-00FF9C?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Profile"/> </a> <img src="https://img.shields.io/badge/Focus-DSA%20%26%20Development-111111?style=for-the-badge&labelColor=111111&color=00FF9C" alt="Current Focus"/> <img src="https://img.shields.io/badge/Status-Always%20Learning-111111?style=for-the-badge&labelColor=111111&color=00FF9C" alt="Learning Status"/> </p>
 
 <h3 align="center">💻 CSE Student | DSA Enthusiast | Aspiring Software Engineer</h3>
 
