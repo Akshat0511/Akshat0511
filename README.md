@@ -72,82 +72,46 @@ Tools & Platforms
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 
-##    Featured Projects
+##   Featured Projects
 
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 [Atlasify-website](https://github.com/Akshat0511/Atlasify-website)
+### 🌐 [Atlasify-website](YOUR_LIVE_WEBSITE_URL)
 
 A learning-focused website built to help learners explore educational resources.
 
-<img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+[**🔗 Visit Website ↗**](YOUR_LIVE_WEBSITE_URL) · [View Source Code](https://github.com/Akshat0511/Atlasify-website)
 
-</td>
-<td width="50%" valign="top">
+### 📝 [campusfix](YOUR_LIVE_WEBSITE_URL)
 
-### 📝 [campusfix](https://github.com/Akshat0511/campusfix)
+A complaint management system designed to manage and address campus-related complaints.
 
-A complaint management system designed to help manage and address campus-related complaints.
+[**🔗 Visit Website ↗**](YOUR_LIVE_WEBSITE_URL) · [View Source Code](https://github.com/Akshat0511/campusfix)
 
-<img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+### 🎬 [Netflix-clone](YOUR_LIVE_WEBSITE_URL)
 
-</td>
-</tr>
+A Netflix-inspired streaming interface built with React.
 
-<tr>
-<td width="50%" valign="top">
+[**🔗 Visit Website ↗**](YOUR_LIVE_WEBSITE_URL) · [View Source Code](https://github.com/Akshat0511/Netflix-clone)
 
-### 🎬 [Netflix-clone](https://github.com/Akshat0511/Netflix-clone)
+### 🐶 [react-dog](YOUR_LIVE_WEBSITE_URL)
 
-A Netflix-inspired streaming interface built with React, recreating the look and feel of a popular entertainment platform.
+A React-based project forked from the original repository.
 
-<img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+[**🔗 Visit Website ↗**](YOUR_LIVE_WEBSITE_URL) · [View Source Code](https://github.com/Akshat0511/react-dog)
 
-</td>
-<td width="50%" valign="top">
-
-### 🐶 [react-dog](https://github.com/Akshat0511/react-dog)
-
-A React-based project forked from the original react-dog repository.
-
-<img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 [SamadhanSetu](https://github.com/Akshat0511/SamadhanSetu)
+### 🚀 [SamadhanSetu](YOUR_LIVE_WEBSITE_URL)
 
 A platform connecting communities and collaborators to turn societal challenges into practical solutions.
 
-<img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+[**🔗 Visit Website ↗**](YOUR_LIVE_WEBSITE_URL) · [View Source Code](https://github.com/Akshat0511/SamadhanSetu)
 
-</td>
-<td width="50%" valign="top">
+### 🐍 [Snake-Game](YOUR_LIVE_WEBSITE_URL)
 
-### 🐍 [Snake-Game](https://github.com/Akshat0511/Snake-Game)
+A classic Snake game built using JavaScript.
 
-A classic Snake game built using JavaScript, combining simple gameplay with fundamental programming concepts.
-
-<img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://img.shields.io/badge/6%20Projects-Building%20%26%20Learning-00FF9C?style=for-the-badge&labelColor=101820" alt="Six Projects"/>
-
-</div>
+[**🔗 Play Game ↗**](YOUR_LIVE_WEBSITE_URL) · [View Source Code](https://github.com/Akshat0511/Snake-Game)
 
 ---
+
 
 
 ---
