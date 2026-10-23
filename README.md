@@ -98,11 +98,11 @@ A React-based project forked from the original repository.
 
 [**🔗 Visit Website ↗**](YOUR_LIVE_WEBSITE_URL) · [View Source Code](https://github.com/Akshat0511/react-dog)
 
-### 🚀 [SamadhanSetu](YOUR_LIVE_WEBSITE_URL)
+### 🚀 [SamadhanSetu](https://react-dog-psi-eight.vercel.app/)
 
 A platform connecting communities and collaborators to turn societal challenges into practical solutions.
 
-[**🔗 Visit Website ↗**](YOUR_LIVE_WEBSITE_URL) · [View Source Code](https://github.com/Akshat0511/SamadhanSetu)
+[**🔗 Visit Website ↗**](https://react-dog-psi-eight.vercel.app/) · [View Source Code](https://github.com/Akshat0511/SamadhanSetu)
 
 ### 🐍 [Snake-Game](YOUR_LIVE_WEBSITE_URL)
 
