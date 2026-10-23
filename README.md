@@ -41,7 +41,7 @@ Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,vercel&theme=dark" alt="Developer Tools"/>
 
 </div>
----
+
 
 ##  GitHub Statistics
 
@@ -61,10 +61,85 @@ Tools & Platforms
 
 ---
 
-## 📌 Featured Projects
+<!-- ===================== FEATURED PROJECTS ===================== -->
 
-* 🚀 **SamadhanSetu** — A platform for crowdsourcing solutions to societal challenges.
-* 💡 **More projects coming soon!**
+## `06`   Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 [Atlasify-website](https://github.com/Akshat0511/Atlasify-website)
+
+A learning-focused website built to help learners explore educational resources.
+
+<img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 [campusfix](https://github.com/Akshat0511/campusfix)
+
+A complaint management system designed to help manage and address campus-related complaints.
+
+<img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎬 [Netflix-clone](https://github.com/Akshat0511/Netflix-clone)
+
+A Netflix-inspired streaming interface built with React, recreating the look and feel of a popular entertainment platform.
+
+<img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🐶 [react-dog](https://github.com/Akshat0511/react-dog)
+
+A React-based project forked from the original react-dog repository.
+
+<img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 [SamadhanSetu](https://github.com/Akshat0511/SamadhanSetu)
+
+A platform connecting communities and collaborators to turn societal challenges into practical solutions.
+
+<img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+
+</td>
+<td width="50%" valign="top">
+
+### 🐍 [Snake-Game](https://github.com/Akshat0511/Snake-Game)
+
+A classic Snake game built using JavaScript, combining simple gameplay with fundamental programming concepts.
+
+<img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/6%20Projects-Building%20%26%20Learning-00FF9C?style=for-the-badge&labelColor=101820" alt="Six Projects"/>
+
+</div>
+
+---
+
 
 ---
 
