@@ -52,18 +52,20 @@ Tools & Platforms
 
 ---
 
+
 ##  Coding Profiles
 
 <p>
-  🟠 <a href="[https://leetcode.com/"](https://leetcode.com/u/Akshat_0511/)>LeetCode</a> — Data Structures & Algorithms<br>
-  🔵 <a href="[https://codeforces.com/"](https://codeforces.com/profile/akshat051105)>Codeforces</a> — Competitive Programming
+  🟠 <a href="https://leetcode.com/u/Akshat_0511/">LeetCode</a> — Data Structures & Algorithms<br>
+  🔵 <a href="https://codeforces.com/profile/akshat051105">Codeforces</a> — Competitive Programming
 </p>
+
 
 ---
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 
-## `06`   Featured Projects
+##    Featured Projects
 
 <div align="center">
 
