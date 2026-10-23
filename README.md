@@ -22,7 +22,7 @@
 ## 🧑‍💻 Tech Stack
 
 <p>
- <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,react,nextjs,nodejs,express,tailwind,vite,npm,mongodb,postgres,firebase,git,github,gitlab,vscode,postman,vercel,netlify,powershell,figma" alt="My Tech Stack" />
+ <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,css,react,nextjs,nodejs,express,tailwind,vite,npm,mongodb,postgres,firebase,git,github,vscode,postman,vercel" alt="My Tech Stack" />
 
 </p>
 
