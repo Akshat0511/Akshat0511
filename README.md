@@ -105,12 +105,7 @@ A classic Snake game built using JavaScript.
 A complaint management system designed to manage and address campus-related complaints.
 
 [**🔗 Visit Website ↗**](https://campusfix-eosin.vercel.app/) · [View Source Code](https://github.com/Akshat0511/campusfix)
-### 🎬 [Netflix Clone](https://netflix-clone-xi-five-46.vercel.app/)
 
-A Netflix-inspired streaming interface built with React.
-
-[**🔗 Visit Website ↗**](https://netflix-clone-xi-five-46.vercel.app/) · [View Source Code](https://github.com/Akshat0511/Netflix-clone)
----
 
 <div align="center">
   <img src="https://img.shields.io/badge/6%20Projects-Building%20%26%20Learning-00FF9C?style=for-the-badge&labelColor=101820" alt="6 Projects"/>
